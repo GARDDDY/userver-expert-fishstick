@@ -1,0 +1,23 @@
+[1/23] Creating testsuite runner at /tmp/build_pch_onetarg/runtests-bench_service
+[2/23] Running gRPC C++ protocol buffer compiler for /tmp/bench_service/proto
+[3/23] Building CXX object CMakeFiles/bench_service_proto.dir/cmake_pch.hxx.pch
+[4/23] Building CXX object CMakeFiles/bench_service_proto.dir/proto/handlers/hello.pb.cc.o
+[5/23] Building CXX object CMakeFiles/bench_service_unittest.dir/cmake_pch.hxx.pch
+[6/23] Building CXX object CMakeFiles/bench_service.dir/cmake_pch.hxx.pch
+[7/23] Building CXX object CMakeFiles/bench_service_objs.dir/cmake_pch.hxx.pch
+[8/23] Building CXX object CMakeFiles/bench_service_objs.dir/src/greeting.cpp.o
+[9/23] Building CXX object CMakeFiles/bench_service_proto.dir/proto/handlers/hello.grpc.pb.cc.o
+[10/23] Building CXX object CMakeFiles/bench_service_objs.dir/src/hello.cpp.o
+[11/23] Building CXX object CMakeFiles/bench_service_objs.dir/src/hello_mongo.cpp.o
+[12/23] Building CXX object CMakeFiles/bench_service_objs.dir/src/hello_postgres.cpp.o
+[13/23] Building CXX object CMakeFiles/bench_service_objs.dir/src/hello_grpc.cpp.o
+[14/23] Building CXX object CMakeFiles/bench_service_proto.dir/proto/handlers/hello_service.usrv.pb.cpp.o
+[15/23] Building CXX object CMakeFiles/bench_service_proto.dir/proto/handlers/hello_client.usrv.pb.cpp.o
+[16/23] Linking CXX static library libbench_service_proto.a
+[17/23] Building CXX object CMakeFiles/bench_service_unittest.dir/src/greeting_test.cpp.o
+[18/23] Building CXX object CMakeFiles/bench_service.dir/src/main.cpp.o
+[19/23] Linking CXX executable bench_service_unittest
+[20/23] Linking CXX executable bench_service
+[21/23] Building CXX object CMakeFiles/bench_service_benchmark.dir/cmake_pch.hxx.pch
+[22/23] Building CXX object CMakeFiles/bench_service_benchmark.dir/src/greeting_benchmark.cpp.o
+[23/23] Linking CXX executable bench_service_benchmark

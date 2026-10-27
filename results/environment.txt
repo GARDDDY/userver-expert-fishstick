@@ -1,0 +1,15 @@
+Linux 63b4cd0db459 6.18.33.2-microsoft-standard-WSL2 #1 SMP PREEMPT_DYNAMIC Thu Jun 18 21:54:43 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+nproc: 4
+model name	: 11th Gen Intel(R) Core(TM) i7-11700F @ 2.50GHz
+               total        used        free      shared  buff/cache   available
+Mem:            7871        1278        1664           5        4929        6396
+Swap:           2048           0        2048
+Ubuntu clang version 15.0.7
+Target: x86_64-pc-linux-gnu
+Thread model: posix
+InstalledDir: /usr/bin
+g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0
+cmake version 4.4.4
+ninja 1.10.1
+runs per variant: 5, jobs: 4
+prebuilt userver: /usr/lib/libuserver-core.a

@@ -1,0 +1,18 @@
+[1/18] Creating testsuite runner at /tmp/build_baseline_notrace/runtests-bench_service
+[2/18] Running gRPC C++ protocol buffer compiler for /tmp/bench_service/proto
+[3/18] Building CXX object CMakeFiles/bench_service_objs.dir/src/greeting.cpp.o
+[4/18] Building CXX object CMakeFiles/bench_service_objs.dir/src/hello.cpp.o
+[5/18] Building CXX object CMakeFiles/bench_service_objs.dir/src/hello_mongo.cpp.o
+[6/18] Building CXX object CMakeFiles/bench_service_proto.dir/proto/handlers/hello.pb.cc.o
+[7/18] Building CXX object CMakeFiles/bench_service_objs.dir/src/hello_postgres.cpp.o
+[8/18] Building CXX object CMakeFiles/bench_service_objs.dir/src/hello_grpc.cpp.o
+[9/18] Building CXX object CMakeFiles/bench_service_proto.dir/proto/handlers/hello.grpc.pb.cc.o
+[10/18] Building CXX object CMakeFiles/bench_service_unittest.dir/src/greeting_test.cpp.o
+[11/18] Building CXX object CMakeFiles/bench_service_benchmark.dir/src/greeting_benchmark.cpp.o
+[12/18] Building CXX object CMakeFiles/bench_service_proto.dir/proto/handlers/hello_client.usrv.pb.cpp.o
+[13/18] Building CXX object CMakeFiles/bench_service_proto.dir/proto/handlers/hello_service.usrv.pb.cpp.o
+[14/18] Linking CXX static library libbench_service_proto.a
+[15/18] Building CXX object CMakeFiles/bench_service.dir/src/main.cpp.o
+[16/18] Linking CXX executable bench_service_benchmark
+[17/18] Linking CXX executable bench_service_unittest
+[18/18] Linking CXX executable bench_service
